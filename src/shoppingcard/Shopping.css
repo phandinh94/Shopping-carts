@@ -1,0 +1,86 @@
+.navbar,
+.content{
+    width: 100%;
+}
+.navbar h2{
+    color: rgb(102,112,173);
+}
+.img-navbar{
+    width: 30%;
+}
+.img-logo{
+    width: 100%;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+}
+/* list-cart */
+ul{
+    list-style: none;
+}
+.list-cart,
+.right-table{
+    width: 44%;
+}
+
+.title-list{
+    width: 100%;
+    padding: 4% 0% 4% 0%;
+    background-color: rgb(52,122,183);
+    font-weight: bolder;
+    color: white;
+    /* text-align: start; */
+    margin: 0%;
+
+}
+.list-cart{
+    border: 1px solid rgb(52,122,183) ;
+}
+.hr{
+    width: 95%;
+}
+
+/* --------your-cart---------- */
+/* .your-cart{ */
+    /* border: 1px solid rgb(242,222,223); */
+/* } */
+.yourcart-title{
+    width: 100%;
+    padding: 4% 0% 4% 0%;
+    background-color: rgb(242,222,223);
+    font-weight: bolder;
+    color: rgb(204,140,134);
+    margin: 0%;
+}
+.yourcart-table{
+    width: 100%;
+    border: 1px solid rgb(242,222,223);
+}
+.table-cart{
+    width: 100%;
+}
+
+td, th{
+    padding-top: 3%;
+}
+
+.money{
+    color: rgb(255,79,103);
+    border: rgb(255,77,90);
+}
+.tr{
+    border: 2px solid grey;
+}
+.update-cussess{
+    background-color: rgb(223,240,216);
+    margin: 3% 0%;
+    padding: 2%;
+    color: rgb(130,158,102);
+}
+/* .delete-cussess{
+    background-color: rgb(188, 58, 18);
+    margin: 3% 0%;
+    padding: 2%;
+    color: rgb(197, 178, 86);
+} */

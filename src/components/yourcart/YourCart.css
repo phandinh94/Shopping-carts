@@ -1,0 +1,21 @@
+
+.btn-update{
+    background-color: rgb(166,219,237);
+    color: white;
+    border: rgb(166,219,237);
+    padding: 4%;
+    margin-right: 5%;
+    font-weight: bolder;
+}
+.btn-delete{
+    background-color: rgb(218,83,80);
+    color: white;
+    border: rgb(218,83,80);
+    padding: 4%;
+    font-weight: bolder;
+}
+.tblproduct-quanfityitem{
+    width: 80%;
+    border: 1px solid black;
+    padding: 2% 20%;
+}

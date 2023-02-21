@@ -1,0 +1,39 @@
+.infonation-item{
+    width: 100%;
+    display: flex;
+}
+.img-product{
+    width: 30%;
+}
+.image-product{
+    width: 90%;
+    height: 90%;
+    margin-top: 5%;
+}
+
+.info-product{
+    width: 50%;
+    text-align: justify;
+}
+.money-product{
+    width: 20%;
+
+}
+.quanfity-list{
+    width: 60%;
+    padding: 4% 0%;
+    margin-left: 20%;
+    border: 2px solid rgb(18, 17, 17);
+    
+}
+.quanfity-money{
+    width: 60%;
+    padding: 4% 0%;
+    margin-left: 20%;
+    background-color: rgb(255,102,52);
+    color: white;
+    font-weight: bolder;
+    
+
+    
+}
